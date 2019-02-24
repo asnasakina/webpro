@@ -1,0 +1,64 @@
+<html>
+<head>
+	<tittle> Curriculum Vitae</title>
+</head>
+<body bgcolor="#006699" width="800px">
+	<div align="center">
+	<center>
+	 <h1>
+	 Curriculum Vitae</h1>
+	</center>
+	<hr/>
+	<h2>
+	PROFIL</h2>
+	<table width="800px">
+	 <tr>
+	 	<td width="25%">Nama Lengkap</td>
+	 	<td width="1%">:</td>
+	 	<td><b>Sakina Asna Dewi</b></td>
+	 	<td rowspan="4"><img src="sakina.jpeg" alt="1" title="1"height="100px" width="75px"></td>
+	 </tr>
+	 
+	 <tr>
+	 	<td>Tempat, Tanggal Lahir</td>
+	 	<td>:</td>
+	 	<td>Batang, 30 Mei 1998</td>
+	 </tr>
+
+	 <tr>
+	 	<td>Alamat</td>
+	 	<td>:</td>
+	 	<td> Bandung, Jawa Barat</td>
+	 </tr>
+
+	 <tr>
+	 	<td>Alamat E-mail</td>
+	 	<td>:</td>
+	 	<td> asnasakina@gmail.com</td>
+	 </tr>
+
+</tbody>
+</table>
+<h2>
+Riwayat Pendidikan</h2>
+<table width="800px">
+	<tbody>
+		<tr>
+			<td width="25%">2010-2013</td>
+			<td width="1%">:</td>
+			<td>SMPN 3 Batang</td>
+		</tr>
+
+		<tr>
+			<td>2013-2016</td>
+			<td>:</td>
+			<td>SMK Telkom Purwokerto</td>
+		</tr>
+
+		<tr>
+			<td>2016-sekarang</td>
+			<td>:</td>
+			<td>Telkom University</td>
+		</tr>
+	</body>
+</html>
